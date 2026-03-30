@@ -1,0 +1,1 @@
+in this readme..add 3 lines of copypasta ..for each line ..make a commit and push to github
